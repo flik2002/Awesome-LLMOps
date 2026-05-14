@@ -10,6 +10,9 @@ An awesome & curated list of the best LLMOps tools for developers.
 
 ## Table of Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor): Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
+
 - [Awesome LLMOps](#awesome-llmops)
   - [Table of Contents](#table-of-contents)
   - [Model](#model)
